@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f5ny5IxD8u0ZHPE/Sv1eT7bwUXfGp4kjhVa3wMHaHZY=",
+  "Source": "WithoutSwaggerDocumentation.Api",
+  "BasePath": "_content/WithoutSwaggerDocumentation.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

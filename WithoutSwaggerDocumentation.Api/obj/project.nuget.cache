@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiTwEtrqLqI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rishi\\RiderProjects\\WithoutSwaggerDocumentationSolution\\WithoutSwaggerDocumentation.Api\\WithoutSwaggerDocumentation.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rishi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\scalar.aspnetcore\\1.2.42\\scalar.aspnetcore.1.2.42.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\swashbuckle.aspnetcore\\7.0.0\\swashbuckle.aspnetcore.7.0.0.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.0.0\\swashbuckle.aspnetcore.swagger.7.0.0.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.0.0\\swashbuckle.aspnetcore.swaggergen.7.0.0.nupkg.sha512",
+    "C:\\Users\\rishi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.0.0\\swashbuckle.aspnetcore.swaggerui.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
